@@ -1,0 +1,680 @@
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\appsettings.json
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.staticwebassets.endpoints.json
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.exe
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.deps.json
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.runtimeconfig.json
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.pdb
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.csproj.AssemblyReference.cache
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.AssemblyInfoInputs.cache
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.AssemblyInfo.cs
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.csproj.CoreCompileInputs.cache
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\scopedcss\bundle\MyntraClone.API.styles.css
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets\msbuild.MyntraClone.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets\msbuild.MyntraClone.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets\msbuild.build.MyntraClone.API.props
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyntraClone.API.props
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyntraClone.API.props
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraCl.AD7E6B47.Up2Date
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\refint\MyntraClone.API.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.pdb
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.genruntimeconfig.cache
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\ref\MyntraClone.API.dll
+C:\Users\inamk\OneDrive\Desktop\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.staticwebassets.endpoints.json
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\appsettings.json
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.exe
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.deps.json
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.runtimeconfig.json
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.pdb
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Humanizer.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Tabish work\myntra-project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.csproj.AssemblyReference.cache
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.AssemblyInfoInputs.cache
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.AssemblyInfo.cs
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.csproj.CoreCompileInputs.cache
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\scopedcss\bundle\MyntraClone.API.styles.css
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraCl.AD7E6B47.Up2Date
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.dll
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\refint\MyntraClone.API.dll
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.pdb
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.genruntimeconfig.cache
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\ref\MyntraClone.API.dll
+D:\Tabish work\myntra-project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\appsettings.json
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.staticwebassets.endpoints.json
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.exe
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.deps.json
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.runtimeconfig.json
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\MyntraClone.API.pdb
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Humanizer.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.csproj.AssemblyReference.cache
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.AssemblyInfoInputs.cache
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.AssemblyInfo.cs
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.csproj.CoreCompileInputs.cache
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\scopedcss\bundle\MyntraClone.API.styles.css
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\MyntraCl.AD7E6B47.Up2Date
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\refint\MyntraClone.API.dll
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.pdb
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\MyntraClone.API.genruntimeconfig.cache
+D:\Tabish work\GitHub\ecommerse project\MyntraClone.API\obj\Debug\net8.0\ref\MyntraClone.API.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\appsettings.json
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\MyntraClone.API.staticwebassets.endpoints.json
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\MyntraClone.API.exe
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\MyntraClone.API.deps.json
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\MyntraClone.API.runtimeconfig.json
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\MyntraClone.API.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\MyntraClone.API.pdb
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Humanizer.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\MyntraClone.API.csproj.AssemblyReference.cache
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\MyntraClone.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\MyntraClone.API.AssemblyInfoInputs.cache
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\MyntraClone.API.AssemblyInfo.cs
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\MyntraClone.API.csproj.CoreCompileInputs.cache
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\MyntraClone.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\MyntraClone.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\scopedcss\bundle\MyntraClone.API.styles.css
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\MyntraCl.AD7E6B47.Up2Date
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\MyntraClone.API.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\refint\MyntraClone.API.dll
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\MyntraClone.API.pdb
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\MyntraClone.API.genruntimeconfig.cache
+D:\Tabish work\GitHub\ecommerse project\Rehaish.API\obj\Debug\net8.0\ref\MyntraClone.API.dll
